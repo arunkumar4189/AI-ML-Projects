@@ -1,0 +1,55 @@
+ARUN KUMAR KUMARI ARUMUGAM
+AI Trainer / LLM Evaluator  |  NLP, SFT/QLoRA, RAG groundedness  |  Domain: Telecom, Healthcare, Software
+Chennai, India  •  +91 95669 16623  •  arunkumar4189@gmail.com  •  linkedin.com/in/arunkumar
+GitHub (coursework portfolio): https://github.com/arunkumar4189/AI-ML-Projects
+
+PROFILE
+Distinguished Engineer (Verizon) and M.Tech Artificial Intelligence & Machine Learning candidate (BITS Pilani, 2025–2027). I build and evaluate NLP/LLM systems: instruction datasets, QLoRA fine-tuning, prompt routing, intent/NER annotation, sentiment and document classification, medical RAG with agentic verification, and human-in-the-loop agent review. Seeking OpenTrain AI training work in LLM evaluation, SFT data quality, domain NLP, and groundedness/safety review.
+
+AI TRAINING / LABELING SKILLS
+Data types: Text, Document, Code, Image, Medical
+Task types: Classification, NER/slots, Sentiment, Evaluation/rating, Instruction data / SFT, Prompt engineering, RAG groundedness
+Tools actually used: Hugging Face (Transformers, PEFT/QLoRA, Hub, Inference API), Jupyter, NLTK/spaCy pipelines, scikit-learn, MLflow, Gradio, Streamlit, GitHub, LangGraph, MCP
+Languages: English (Fluent), Tamil (Native)
+
+SELECTED AI TRAINING PROJECTS (M.Tech + production)
+
+Medical instruction data, QLoRA SFT, and prompt evaluation (2025–present)
+- Built clinical PDF corpus and instruction JSONL; QLoRA-fine-tuned GPT-2 Medium.
+- Evaluated zero/few-shot, instruction, self-critique, JSON function-calling, CoT/ToT/self-consistency/ReAct, and a prompt router with token/latency/quality metrics.
+- Evidence: AI-ML-Projects/LLM-Gen-AI/
+
+Medical QA with agentic verification (2025–present)
+- Retrieval + Flan-T5 generation over diabetes, hypertension, COVID-19, asthma, and appendicitis guidelines.
+- Agentic verify-and-correct loop for grounded, explainable answers (LLM-as-judge style).
+- Evidence: NLP/Domain-Specific Question Answering System.ipynb
+
+Intent, NER, and dialogue-state labeling (university helpdesk) (2025–present)
+- 12 intents, 15 entities, 80+ labelled utterances, multi-turn DST, tool routing, safety/escalation.
+- Evidence: NLP/Conversational AI and Sentiment.ipynb
+
+Linguistic and document annotation (2025–present)
+- POS/HMM + NER on Airbnb reviews; dependency-based negation/intensifier sentiment; from-scratch news classifiers (Naïve Bayes, Rocchio); clinical inverted index with k-gram and Soundex spelling correction.
+- Evidence: NLP/, IR/
+
+Multimodal support triage (SupportSense) and telco churn review UI (2025–present)
+- DistilBERT+LoRA ticket classification, sentiment, summary, FAQ QA, image defect/caption, draft reply (Gradio, Hugging Face APIs).
+- Telco churn (7,043 records): Logistic Regression vs Random Forest, MLflow, Streamlit.
+- Evidence: API Driven Cloud Native/
+
+Summarization, VLM distillation, vision, code defects, RL eval (2025–present)
+- Seq2Seq Transformer + ROUGE; CLIP knowledge distillation + Recall@K; CNN cats-vs-dogs; Apache Ant defect prediction; MiniChess DP; bandits; DQN/DDQN.
+- Evidence: Conversational AI/, DNN/, ML/, DRL/
+
+Production HITL agent evaluation — Verizon (2025–present)
+- Agentic Universe: self-service multi-agent hosting with visual workflows, run history, human-in-the-loop validation.
+- SRE Triaging Service: LangGraph agents correlate OpenSearch logs, Git, Jira, and Kubernetes change windows into evidence-backed RCA.
+- Rubrics for groundedness, escalation, and evidence quality.
+
+PROFESSIONAL EXPERIENCE (SUMMARY)
+Verizon India, Chennai — Distinguished Engineer (Sep 2025–present); Principal Engineer / Solutions Architect (2021–2025); Senior Technical Architect (2018–2021); Lead Developer (2016–2018). 99.99% uptime B2B ordering; 10K+ orders/payload bulk engine; enterprise GenAI.
+Tech Mahindra — Associate Tech Specialist (2014–2016). Wipro Technologies — Software Engineer (2010–2013).
+
+EDUCATION
+M.Tech, Artificial Intelligence & Machine Learning — BITS Pilani (2025–2027 expected)
+B.E., Computer Science & Engineering — Adhiparasakthi Engineering College, Anna University (2010, 77.06%)
