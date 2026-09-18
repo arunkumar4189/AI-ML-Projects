@@ -6,6 +6,8 @@ Contributor on these submissions: **Arunkumar K A** (`2024AC05045`), typically w
 
 **OpenTrain AI trainer profile:** copy-paste kit, project write-ups, and a data-labeling resume live in [`opentrain/`](opentrain/). Public profile: [app.opentrain.ai/labeler-profile/arun-k-35](https://app.opentrain.ai/labeler-profile/arun-k-35).
 
+**Upwork freelancer profile:** title, overview, six portfolio cards, Project Catalog gigs, and proposal templates live in [`upwork/`](upwork/).
+
 ## Repository layout
 
 | Folder | Course focus |
