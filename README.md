@@ -4,6 +4,8 @@ Portfolio of M.Tech **Artificial Intelligence and Machine Learning** coursework 
 
 Contributor on these submissions: **Arunkumar K A** (`2024AC05045`), typically with Groups 11, 15, 101, or 103.
 
+**OpenTrain AI trainer profile:** copy-paste kit, project write-ups, and a data-labeling resume live in [`opentrain/`](opentrain/). Public profile: [app.opentrain.ai/labeler-profile/arun-k-35](https://app.opentrain.ai/labeler-profile/arun-k-35).
+
 ## Repository layout
 
 | Folder | Course focus |
