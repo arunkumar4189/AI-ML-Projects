@@ -18,6 +18,9 @@ Nothing here claims commercial labeling-platform contracts (Scale, Outlier, Appe
 | [PORTFOLIO.md](PORTFOLIO.md) | Project write-ups to paste as labeling-experience descriptions |
 | [DATA_LABELING_RESUME.md](DATA_LABELING_RESUME.md) | Source for the optional **data labeling resume** |
 | [Arun_Kumar_OpenTrain_Data_Labeling_Resume.pdf](Arun_Kumar_OpenTrain_Data_Labeling_Resume.pdf) | Upload under Settings → Profile → data labeling resume |
+| [DATA_ANNOTATION_RESUME.md](DATA_ANNOTATION_RESUME.md) | Markdown resume for DataAnnotation / AI coding contributor applications |
+| [DATA_ANNOTATION_COVER_LETTER.md](DATA_ANNOTATION_COVER_LETTER.md) | Cover letter for the same applications |
+| [Arun_Kumar_DataAnnotation_Resume.pdf](Arun_Kumar_DataAnnotation_Resume.pdf) | PDF resume to upload (regenerate: `python3 generate_data_annotation_resume_pdf.py`) |
 | [HOW_TO_FILL.md](HOW_TO_FILL.md) | Step-by-step mapping onto the 9-step onboarding wizard |
 
 ## Suggested matching posture
